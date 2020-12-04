@@ -1,0 +1,27 @@
+{
+  "name": "dataviz",
+  "version": "1.0.0",
+  "description": "Datavisualization Projects",
+  "main": "index.js",
+  "dependencies": {
+    "d3": "^6.2.0",
+    "leaflet": "^1.7.1",
+    "parcel-bundler": "^1.12.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snkuroda/DataViz.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/snkuroda/DataViz/issues"
+  },
+  "homepage": "https://github.com/snkuroda/DataViz#readme"
+}
